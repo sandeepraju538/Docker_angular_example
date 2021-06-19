@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DokerAngularExample"
+    }
+  },
+  "defaultProject": "DokerAngularExample",
+  "cli": {
+    "analytics": false
+  }
 }
